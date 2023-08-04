@@ -55,7 +55,7 @@ We utilized the doughnut chart to depict Sales figures from the regions that sho
 
 ![](Regional_performance.jpg)
 
-Cities from the West and East were predictably the biggest revenue earners. From the East, New York topped the 5-year sales revenue bar chart with an income worth $256,368.16, while Philadelphia, another Eastern City achieved the Fifth largest revenue.  The Western Cities of Los Angeles, Seattle, and Francisco were second, third, and fourth largest earners, in that order. Is further explained in the bar chart where the cities were placed on the vertical axis, while total sales from each city was plotted on the horizontal axis.
+Cities from the West and East were predictably the biggest revenue earners. From the East, New York topped the 5-year sales revenue bar chart with an income worth $256,368.16, while Philadelphia, another Eastern City achieved the Fifth largest revenue.  The Western Cities of Los Angeles, Seattle, and San Francisco were second, third, and fourth largest earners, in that order. This is further explained in the bar chart below where the cities were placed on the vertical axis, while Total Sales from each city was plotted on the horizontal axis.
 
 ![](Top_Cities.jpg)
 

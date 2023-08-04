@@ -37,6 +37,10 @@ ii.	Data Visualization on Microsoft Excel Using Column Charts, Bar Charts, Line 
 
 ## ANALYSIS AND VISUALIZATIONS
 
+
+![](Entire_Dash)
+
+
 ### Product Performance
 The business realized its highest Revenue and Profit from selling technology products while Office Supplies achieved the second-highest profit despite realizing the least revenue among the product lines. In contrast, the strong sales revenue from Furniture did not translate to significant profit as the product barely broke even for the period under review. 
 

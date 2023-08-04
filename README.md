@@ -38,7 +38,8 @@ ii.	Data Visualization on Microsoft Excel Using Column Charts, Bar Charts, Line 
 ## ANALYSIS AND VISUALIZATIONS
 
 
-![](Entire_Dash)
+
+![](Entire_Dash.jpg)
 
 
 ### Product Performance
@@ -73,8 +74,14 @@ It revealed a consistent pattern across each year. Revenues were always comparat
 ## CONCLUSION
 1.	Technological Gadgets were the major ‘cash cow’ of the superstore, with phones particularly driving both revenue and profit.
 2.	The store has been making losses on sales of furniture, particularly Tables and Bookcases
-3.	3.	Business Thrives more in Cities within the Eastern and Western Regions of the country, especially New York, Los Angeles, Seattle, San Francisco, and Philadelphia
+3. Business Thrives more in Cities within the Eastern and Western Regions of the country, especially New York, Los Angeles, Seattle, San Francisco, and Philadelphia
 4.	Sales usually pick up from the second half of each year and reach its peak at the last quarter.
 
-# THANK YOU
+## RECOMMENDATIONS
+1. Management should review corporate strategy regarding marketing and sale of tables and bookcases to ensure profitability or consider exiting the sale of those items entirely
+2. There appears to be alot of head-room for improvement in the Central and Southern region where performance is still lagging. Management should engage staff and customers in those regions to better understand the factors that are consraining sales there. 
+3. More sale discounts and promotional activities should be channelled to New york and Los Angeles especially between October and December when sales volumes are high to endear the store to more customers
+
+
+#                                                        THANK YOU
 

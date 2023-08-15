@@ -20,8 +20,28 @@ Questions:
    
 ## KEY PERFORMANCE INDICATORS
 The Key Performance Indicators are:
-1.	Sales Revenue
-2.	Profit
+1.	Total Sales Revenue
+2.	Sales per product category
+3.	Sales per Region
+4.	Total Profit
+5.	Profit per product line
+
+### Total Sales Revenue
+An important Key Performance Indicator (KPI) that can be extracted from this dataset is the Total Sales Revenue, which is simply an aggregation of the sales made per customer.
+
+### Sales per product category
+The Sales Revenue KPI is further decomposed to include Sale per product line, which refers to the revenue earned from the sale of each product category, it is derived from the data set by filtering and aggregating the sale of each category.
+
+### Sales per Region
+The Sales Revenue KPI is also further decomposed to include Sales Revenue from each Region and City. It is derived from the data set by filtering and aggregating the sale of each Region and City
+
+### Total Profit
+Total Profit refers to the aggregate of all the profit made by the superstore over the entire period. It is derived by summing up the profit column on the data set. 
+Theoretically;
+Profit = Revenue – Cost
+
+### Profit per product line
+The profit KPI is further decomposed to include Profit per product line refers to the profit earned from each product category, it is derived from the data set by filtering and aggregating the profit on each category.
    
 ## DATA SET
 

@@ -41,7 +41,7 @@ Theoretically;
 Profit = Revenue – Cost
 
 ### Profit per product line
-The profit KPI is further decomposed to include Profit per product line refers to the profit earned from each product category, it is derived from the data set by filtering and aggregating the profit on each category.
+The profit KPI is further decomposed to include Profit per product line, it refers to the profit earned from each product category, and it is derived from the data set by filtering and aggregating the profit on each category.
    
 ## DATA SET
 
